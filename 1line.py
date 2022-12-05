@@ -1,0 +1,1 @@
+from nline import main; main()
