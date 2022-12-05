@@ -24,5 +24,5 @@
 - 3 line example using ;'s
 - 8 line example not using ;'s
 - n line example using what I think to be best practices (has slightly more functionality as well)
-- I'm sure you might be able to do >3 line without cheating to the extent that I did
-- You can probably also do >8 while still not using ;'s
+- I'm sure you might be able to do <3 line without cheating to the extent that I did
+- You can probably also do < 8 while still not using ;'s
